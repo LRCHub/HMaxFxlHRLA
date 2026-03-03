@@ -1,0 +1,71 @@
+# Albemuth – cage
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+Welcome your stray sheep
+愛の檻のなか
+こうして世界は生まれおちた
+We will call it paradise
+秘密ごとすべて
+みんな閉じ込めて
+矛盾も混沌もここでkissして
+鎖に滲んだ blood
+甘い傷に hold tight
+Do you know?
+自由はここにある
+もっときかせてよ 憂い枯れるまで
+赦しあおう ooh, oh-oh
+きらめく声を重ね
+深層に driving
+共犯の driving
+でたらめに絡む（でたらめに絡む）
+密室のfloor 愛で満たして
+(More and more, fall in deep)
+狂喜だけ burning
+幽囚の dancing
+もつれた鎖も（もつれた鎖も）
+僕らの生きてく理由にするから
+忘れないでねthis cage
+(cage, cage, cage)
+Welcome your stray sheep
+愛の檻のなか
+Be ready to give up
+lonely night, lonely night
+こうして世界は生まれおちた
+Just take your time,
+clap, clap, clap
+Hurry up and feel your real
+Baby, maybe, some more
+約束は孤独をとかすの
+Hurry up and feel my real
+Baby, maybe, no more
+ねえ信じてI think so
+居場所はここにある
+君が君である
+僕が僕であることを
+深く深くただ
+ここで抱いていたいだけ
+もっと歌ってよ 声が枯れるまで
+感じあおう ooh, oh-oh
+奮える声を重ね
+真相の drawing
+瞬間に glowing
+チグハグに跳ねる
+(チグハグに跳ねる)
+欲張りな note 愛を奏でて
+(More and more, fall in deep)
+羞恥とか breaking
+繋いだ praying
+愛しい鎖も（愛しい鎖も）
+僕らの生きてる証にするから
+忘れないでね this cage
+Wow, oh-oh, wow, oh-oh
+Wow, oh-oh, wow, oh-oh
+Wow, oh-oh, wow, oh-oh
+Wow, oh-oh
+Wow, oh-oh, wow, oh-oh
+Wow, oh-oh, wow, oh-oh
+Wow, oh-oh, wow, oh-oh
+忘れないでね this cage
+```
