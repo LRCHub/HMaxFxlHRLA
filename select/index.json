@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "cage",
+  "base_artist": "Albemuth",
+  "createdAt": "2026-03-03T04:45:43.869724Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "The Clock at the Back of the Cage",
+      "artist": "Amanda Palmer, Edward Ka-Spel",
+      "has_synced": false,
+      "path": "select/01_The_Clock_at_the_Back_of_the_Cage_Amanda_Palmer,_Edward_Ka-Spel.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "The Clock at the Back of the Cage",
+      "artist": "Amanda Palmer",
+      "has_synced": false,
+      "path": "select/02_The_Clock_at_the_Back_of_the_Cage_Amanda_Palmer.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Among The Sleep - Cage",
+      "artist": "RJD2",
+      "has_synced": false,
+      "path": "select/03_Among_The_Sleep_-_Cage_RJD2.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Cage the Songbird",
+      "artist": "The Low Anthem",
+      "has_synced": true,
+      "path": "select/04_Cage_the_Songbird_The_Low_Anthem.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Little Bird (Are You Happy In Your Cage)",
+      "artist": "Moose",
+      "has_synced": true,
+      "path": "select/05_Little_Bird_(Are_You_Happy_In_Your_Cage)_Moose.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Little Bird (Are You Happy In Your Cage)?",
+      "artist": "Moose",
+      "has_synced": true,
+      "path": "select/06_Little_Bird_(Are_You_Happy_In_Your_Cage)_Moose.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "The Cage",
+      "artist": "Travis",
+      "has_synced": false,
+      "path": "select/07_The_Cage_Travis.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Bear Cage",
+      "artist": "The Stranglers",
+      "has_synced": false,
+      "path": "select/08_Bear_Cage_The_Stranglers.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Time is not our cage - gabry ponte power cut",
+      "artist": "Eiffel 65",
+      "has_synced": true,
+      "path": "select/09_Time_is_not_our_cage_-_gabry_ponte_power_cut_Eiffel_65.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Time Is Not Our Cage (Gabry Ponte Power Cut)",
+      "artist": "Eiffel 65",
+      "has_synced": true,
+      "path": "select/10_Time_Is_Not_Our_Cage_(Gabry_Ponte_Power_Cut)_Eiffel_65.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Cage",
+      "artist": "Billy Idol",
+      "has_synced": true,
+      "path": "select/11_Cage_Billy_Idol.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Cage",
+      "artist": "Billy Idol",
+      "has_synced": true,
+      "path": "select/12_Cage_Billy_Idol.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Don't Let Me Out of My Cage",
+      "artist": "Nik Kershaw",
+      "has_synced": false,
+      "path": "select/13_Don't_Let_Me_Out_of_My_Cage_Nik_Kershaw.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Golden Cage",
+      "artist": "The Whitest Boy Alive",
+      "has_synced": false,
+      "path": "select/14_Golden_Cage_The_Whitest_Boy_Alive.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Golden Cage (Fred Falke remix)",
+      "artist": "The Whitest Boy Alive",
+      "has_synced": true,
+      "path": "select/15_Golden_Cage_(Fred_Falke_remix)_The_Whitest_Boy_Alive.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "My Body Is a Cage",
+      "artist": "Arcade Fire",
+      "has_synced": true,
+      "path": "select/16_My_Body_Is_a_Cage_Arcade_Fire.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Gilded Cage",
+      "artist": "Emma Ruth Rundle",
+      "has_synced": true,
+      "path": "select/17_Gilded_Cage_Emma_Ruth_Rundle.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "cage",
+      "artist": "Albemuth, 存流, 明透",
+      "has_synced": false,
+      "path": "select/pl_01_cage_Albemuth,_存流,_明透.txt"
+    }
+  ]
+}
